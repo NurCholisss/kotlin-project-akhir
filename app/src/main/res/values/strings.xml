@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="image_description">Deskripsi gambar</string>
+    <string name="title_textOB1">Edukasi Perawatan Tanaman</string>
+    <string name="title_textOB2">Blanja Aman Dan Praktis</string>
+    <string name="title_textOB3">Forum Komunitas</string>
+    <string name="description_textOB1">Pelajari cara merawat tanaman hias dengan mudah melalui panduan interaktif dan video tutorial.</string>
+    <string name="description_textOB2">Nikmati kemudahan berbelanja dengan pembayaran yang aman dan pilihan pengiriman sesuai kebutuhanmu.</string>
+    <string name="description_textOB3">Menciptakan ruang yang positif untuk berbagi pengetahuan dan pengalaman. Manfaatkan webinar, forum diskusi, dan konsultasi ahli untuk mencapai tujuanmu.</string>
+    <string name="next_button_text">Selanjutnya</string>
+
+    <string name="content_description_logo_agroverse">Logo Agroverse</string>
+
+
+</resources>
